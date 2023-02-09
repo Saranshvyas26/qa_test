@@ -1,0 +1,8 @@
+selenium==4.5.0
+pytest==4.4.0
+pytest-xdist
+webdriver-manager==3.8.4
+webdriver==
+#chromedriver-py==106.0.5249.119
+pytest-html
+unittest
